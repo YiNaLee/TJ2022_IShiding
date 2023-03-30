@@ -1,0 +1,10 @@
+﻿  Add_noise.cpp
+F:\22大三\信息隐藏\实验\Experiment1\AddNoise\Add_noise.cpp(72,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\22大三\信息隐藏\实验\Experiment1\AddNoise\Add_noise.cpp(78,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\22大三\信息隐藏\实验\Experiment1\AddNoise\Add_noise.cpp(96,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\22大三\信息隐藏\实验\Experiment1\AddNoise\Add_noise.cpp(98,17): warning C4018: “<”: 有符号/无符号不匹配
+F:\22大三\信息隐藏\实验\Experiment1\AddNoise\Add_noise.cpp(100,62): warning C4244: “+=”: 从“double”转换到“BYTE”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\AddNoise\Add_noise.cpp(101,63): warning C4244: “+=”: 从“double”转换到“BYTE”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\AddNoise\Add_noise.cpp(102,61): warning C4244: “+=”: 从“double”转换到“BYTE”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\AddNoise\Add_noise.cpp(110,16): warning C4018: “<”: 有符号/无符号不匹配
+  AddNoise.vcxproj -> F:\22大三\信息隐藏\实验\Experiment1\Debug\AddNoise.exe

@@ -1,0 +1,22 @@
+﻿  exp_distribution.cpp
+  Gaussian_distribution.cpp
+  GGD_distribution.cpp
+  main.cpp
+  parameter_estimation.cpp
+  Theotical_cdf_GGD.cpp
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(27,14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(40,14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(62,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(90,14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(101,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(102,17): warning C4305: “=”: 从“double”到“float”截断
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(103,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(109,33): warning C4305: “=”: 从“double”到“float”截断
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(111,33): warning C4305: “=”: 从“double”到“float”截断
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(112,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(147,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(147,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(151,37): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\22大三\信息隐藏\实验\Experiment1\Experiment1\Theotical_cdf_GGD.cpp(151,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  Experiment1.vcxproj -> F:\22大三\信息隐藏\实验\Experiment1\Debug\Experiment1.exe
